@@ -16,7 +16,10 @@
 <a href="https://open.vscode.dev/divanov11/mumbleapi.git"><img src="https://open.vscode.dev/badges/open-in-vscode.svg" height="25px"></a>
 
 </div>
+<div align="center">
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/divanov11/mumbleapi.git)
+</div>
 ## Download & Setup Instructions :
 
 Before downloading the project, check to make sure you meet the [project's requirements.](https://github.com/divanov11/Mumble/blob/master/REQUIREMENTS.md)
